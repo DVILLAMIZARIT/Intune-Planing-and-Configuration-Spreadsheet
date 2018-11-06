@@ -1,2 +1,6 @@
 # Intune-Planing-and-Configuration-Spreadsheet
-This spreadsheet will help you in your Intune design work. Below are the challenges faced by consultants. Intune have many settings for different OS platforms. How to document these settings. After implementation, How to hand over Intune configurations to operations tea
+Esta hoja de cálculo le ayudará en su trabajo de diseño Intune. A continuación se muestran los desafíos que enfrentan los consultores.
+Intune tiene muchos ajustes para diferentes plataformas so. 
+
+Cómo documentar estos ajustes.
+Después de la implementación, cómo entregar configuraciones de Intune al equipo de operaciones
